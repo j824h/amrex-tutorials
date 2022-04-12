@@ -1,4 +1,4 @@
-AMREX_HOME ?= ../../../../amrex
+AMREX_HOME ?= ../../../../../amrex
 ADR_DIR    ?= ../../../Advection_AmrLevel
 
 TOP := $(ADR_DIR)
